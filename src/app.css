@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+   
+     background-color: wheat !important;
+ 
+}
+.noteCard{
+    height  : 200px !important;
+    width: 160px !important;
+  
+}
+.noteLogo{
+  padding: 0 !important; 
+    height  : 50px !important;
+    width: 30px !important;
+  
+}
+
+.logoName{
+    height  : 50px !important;
+    width: 200px !important;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  
+}
